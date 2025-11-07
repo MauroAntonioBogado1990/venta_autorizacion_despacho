@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_sale_order_autorizado,sale.order autorizado,sale.model_sale_order,venta_autorizacion_despacho.group_autorizador_ventas,1,1,1,0
+access_stock_picking_autorizado,stock.picking autorizado,stock.model_stock_picking,base.group_user,1,0,0,0
